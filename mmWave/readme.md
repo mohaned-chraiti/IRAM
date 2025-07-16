@@ -1,7 +1,7 @@
 # Theoretical and Experimental Assessment of Large Beam Codebook at mmWave Devices: How Much is Enough?
 
 
-This repository contains the experimental data and associated code from our paper:
+This repository contains the experimental data and associated code from our work on mmWave:
 
 **Title:** Theoretical and Experimental Assessment of Large Beam Codebook at mmWave Devices: How Much is Enough?  
 **Authors:** Bora Bozkurt, Hasan Atalay Gunel, Mohaned Chraiti, Ibrahim Hokelek, Ali Gorcin, Ali Ghrayeb                              
