@@ -1,5 +1,6 @@
 
-![Figure description](Flags-EU-European-Union-Flag.1024.png)
+
+<img src="Flags-EU-European-Union-Flag.1024.png" width="300"/>
 # IRAM: Intelligent New Radio Access Network: Deployment and Management
 
 
