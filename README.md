@@ -1,3 +1,5 @@
+
+![Figure description](Flags-EU-European-Union-Flag.1024.png)
 # IRAM: Intelligent New Radio Access Network: Deployment and Management
 
 
