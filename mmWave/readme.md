@@ -15,7 +15,7 @@ This repository contains the experimental data and associated code from our work
 - `results/`: Key results (plots, tables, metrics)
 - `paper/`: BibTeX citation and PDF link
 
-## 📖 Citation
+## Citation
 
 If you find our work relevant to your research, please cite: 
 B. Bozkurt, A. M. Aktaş, H. A. Günel, M. Chraiti, A. Görçin and I. Hökelek, "Beam Codebook Refinement for mmWave Devices with Random Orientations: Concept and Experimental Validation," 2025 IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025,
