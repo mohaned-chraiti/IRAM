@@ -1,5 +1,5 @@
 ## Description
-This dataset is used to control and monitor the performance of NG-RAN modules. Each cell contains a complex IQ sample for a Resource Element (RE), as used in real-time transmission. This dataset corresponds to the time-frequency resource map in the RAN fronthaul U-Plane for a 100 MHz 5G NR signal using 30 kHz SCS: 
+This dataset is used to control and monitor the performance of NG-RAN modules. Each cell contains a complex IQ sample corresponding to a Resource Element (RE), as used in real-time transmission. The dataset represents the time-frequency resource map in the RAN fronthaul U-plane for a 100 MHz 5G NR signal with 30 kHz subcarrier spacing (SCS).
 
 ## Citation
 If you find our work relevant to your research, please cite: 
