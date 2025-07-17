@@ -17,5 +17,4 @@ The research incorporates experimental results and advanced theoretical framewor
 
 **Awards**
 
-Intelligent New Radio Access Network: Deployment and Management 101130826 
-European Commission
+This project has received funding from the European Union’s Horizon  2020 research and innovation program under the Marie Sklodowska-Curie grant agreement No 101108094.
