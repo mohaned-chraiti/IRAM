@@ -2,7 +2,8 @@
 This dataset is used to control and monitor the performance of NG-RAN modules. Each cell contains a complex IQ sample for a Resource Element (RE), as used in real-time transmission. This dataset corresponds to the time-frequency resource map in the RAN fronthaul U-Plane for a 100 MHz 5G NR signal using 30 kHz SCS: 
 
 ## Citation
-If you
+If you find our work relevant to your research, please cite: 
+K. Ibrahim, M. Chraiti and A. Ghrayeb, "A Moral Hazard Detection Framework: Reinforcing Trust in ORAN," in Proc. IEEE WCNC, 2025. doi: 10.1109/WCNC61545.2025.10978718.
 
 
 
